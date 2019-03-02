@@ -12,3 +12,4 @@ to figure out how to work with nested hashes. Better luck tomorrow, I hope.
 
 **Link(s) to work**
 1. [rtlamrvis](https://github.com/bcochrane/rtlamrvis)
+2. [blog post](http://briancochrane.com/?p=69)
