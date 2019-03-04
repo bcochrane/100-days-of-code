@@ -24,3 +24,23 @@ to figure out how to work with nested hashes. Better luck tomorrow, I hope.
 **Link(s) to work**
 1. [rtlamrvis](https://github.com/bcochrane/rtlamrvis)
 2. [blog post](http://briancochrane.com/?p=78)
+
+
+### Day 3: Saturday, March 23, 2019
+
+**Today's Progress**: I started off working on some tutorials, 
+and then did another rewrite of the rtlamrvis data ingestion 
+code. The resulting data structure is more complex than the previous 
+list-of-dictionaries, but now the data is grouped by ID which I 
+think will make it much easier to plot the data.
+
+**Thoughts**: I find I'm still spending a lot of my time trying to 
+figure out the basics, which is frustrating and doesn't make for a 
+productive coding session. I may start splitting my hour of code between 
+working on tutorials and continuing to work on the rtlamrvis project. I 
+think that way I'll feel like these sessions are more effective.
+
+
+**Link(s) to work**
+1. [rtlamrvis](https://github.com/bcochrane/rtlamrvis)
+2. [blog post](http://briancochrane.com/?p=82)
