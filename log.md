@@ -26,7 +26,7 @@ to figure out how to work with nested hashes. Better luck tomorrow, I hope.
 2. [blog post](http://briancochrane.com/?p=78)
 
 
-### Day 3: Saturday, March 23, 2019
+### Day 3: Saturday, March 3, 2019
 
 **Today's Progress**: I started off working on some tutorials, 
 and then did another rewrite of the rtlamrvis data ingestion 
@@ -44,3 +44,21 @@ think that way I'll feel like these sessions are more effective.
 **Link(s) to work**
 1. [rtlamrvis](https://github.com/bcochrane/rtlamrvis)
 2. [blog post](http://briancochrane.com/?p=82)
+
+
+### Day 4: Saturday, March 4, 2019
+
+**Today's Progress**: Successfully created a pandas DataFrame in rtlamrvis.py containing the 
+rtlamr data and created line plots for individual meter IDs. Scatter plots aren't working, 
+but a line plot with markers gets me what I need.
+
+**Thoughts**: I'm really pleased that I finally had some success plotting the rtlamr data. 
+It took a long time to find a pandas plotting example that I could understand. Most of the 
+examples I found were either obviously not written for a beginner in mind, or assumed the 
+reader would be using Jupyter notebooks. My code was executing without errors but I still 
+wasn't seeing any plots...until I found that magic incantation: matplotlib.pyplot.show()
+
+
+**Link(s) to work**
+1. [rtlamrvis](https://github.com/bcochrane/rtlamrvis)
+2. [blog post](http://briancochrane.com/?p=87)
